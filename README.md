@@ -11,3 +11,5 @@ Sudoku Free is awaiting App Store review (confirmed by the developer). Keep its 
 Phenom 300 Checkride uses /Phenom300/ (marketing), /Phenom300/support.html and /Phenom300/privacy.html for its App Store URLs. The older wcursino/phenomcheckride-privacy page is superseded by /Phenom300/privacy.html.
 
 G-V Type Rating (G450/G550) uses /GVTypeRating/ (marketing), /GVTypeRating/support.html and /GVTypeRating/privacy.html for its App Store URLs. Its icon is assets/icons/gv-type-rating.png. Keep its Coming soon label until published, then add the verified listing URL.
+
+Airbus A330 Systems (A330 Prep / A330 Mastery) uses /AirbusA330/ (marketing), /AirbusA330/support.html and /AirbusA330/privacy.html for its App Store URLs. The privacy policy includes Apple update checks and optional support email; keep it aligned with the app.
